@@ -10,7 +10,7 @@ st.set_page_config(page_title="Northwind Traders Dashboard", layout="wide")
 
 # Title
 st.markdown("# :bar_chart: Northwind Traders Dashboard")
-st.markdown("*Comprehensive business analytics for Northwind Traders*")
+st.markdown("*Comprehensive business analytics for Northwind Traders made by ITI Students - Mansour - Power BI Developer - Q2*")
 
 # Load CSV files
 @st.cache_data
@@ -401,4 +401,4 @@ with insight_tabs[2]:
 
 # Footer
 st.markdown("---")
-st.caption("Northwind Traders Dashboard | Graduation Project")
+st.caption("Northwind Traders Dashboard | ITI Graduation Project")
