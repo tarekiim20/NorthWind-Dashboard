@@ -1,2 +1,6 @@
 streamlit
 plotly
+matplotlib
+seaborn
+numpy
+datetime
